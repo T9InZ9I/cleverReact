@@ -1,3 +1,6 @@
-.header {
-    color: red;
+.logo {
+    width: 500;
+    height: 500;
+    float: left;
+    margin: 20px 20px 20px 0;
 }
